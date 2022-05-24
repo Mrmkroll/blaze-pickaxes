@@ -1,0 +1,9 @@
+{
+    "language.name": "English",
+    "language.region": "United States",
+    "language.code": "en_us",
+
+    "item.blazepickaxes.blaze_iron_pickaxe": "Blaze Iron Pickaxe",
+    "item.blazepickaxes.blaze_diamond_pickaxe": "Blaze Diamond Pickaxe",
+    "item.blazepickaxes.blaze_netherite_pickaxe": "Blaze Netherite Pickaxe"
+}

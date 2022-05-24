@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "blazepickaxes",
+  "version": "${version}",
+
+  "name": "Blaze Pickaxes",
+  "description": "Adds pickaxes that automatically smelt mined blocks, similar to the Twilight Forest Mod's Fiery Pick.",
+  "authors": [
+    "Mrmk"
+  ],
+
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/blaze-pickaxes",
+    "sources": "https://github.com/Mrmkroll/blaze-pickaxes",
+    "issues": "https://github.com/Mrmkroll/blaze-pickaxes/issues"
+  },
+
+  "license": "Apache-2.0",
+  "icon": "assets/blazepickaxes/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.blazepickaxes.BlazePickaxes"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "java": ">=17"
+  }
+}

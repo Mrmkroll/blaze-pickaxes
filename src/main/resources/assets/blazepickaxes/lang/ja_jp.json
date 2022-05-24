@@ -1,0 +1,9 @@
+{
+    "language.name": "Japanese",
+    "language.region": "Japan",
+    "language.code": "ja_jp",
+
+    "item.blazepickaxes.blaze_iron_pickaxe": "鉄の精錬ツルハシ",
+    "item.blazepickaxes.blaze_diamond_pickaxe": "ダイヤモンドの精錬ツルハシ",
+    "item.blazepickaxes.blaze_netherite_pickaxe": "ネザライトの精錬ツルハシ"
+}

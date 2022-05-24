@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "blazepickaxes:blaze_diamond_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "blazepickaxes:blaze_netherite_pickaxe"
+  }
+}
